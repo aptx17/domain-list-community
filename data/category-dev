@@ -26,7 +26,6 @@ include:freebsd
 include:gentoo
 include:getcomposer
 include:gitbook
-include:github
 include:gitlab
 include:gnu
 include:golang
