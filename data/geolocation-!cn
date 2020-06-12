@@ -19,6 +19,7 @@ include:chinapower
 include:edx
 include:knovel
 include:ted
+include:github
 
 # Software development related
 include:category-dev
