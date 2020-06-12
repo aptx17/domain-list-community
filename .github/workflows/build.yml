@@ -1,4 +1,4 @@
-name: Build dlc.dat
+name: Build dlc-test.dat
 on:
   push:
     branches:
